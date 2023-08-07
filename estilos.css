@@ -1,0 +1,13 @@
+.titulo_administracion{
+    text-align: center;
+}
+
+.seccion{
+    text-align: center;
+}
+.formulario{
+    display: flex;
+    text-align: center;
+    width: 80%;
+    height: auto;
+}
