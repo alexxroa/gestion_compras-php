@@ -1,175 +1,180 @@
-
-.Logo_Navbar{
-    width: 200px;
-    height: auto;
-
+.Logo_Navbar {
+  width: 200px;
+  height: auto;
 }
 
-.stylenavbar{
-    background-color: #000000;
-    background-image: linear-gradient(0deg, #000000 0%, #ffffff 10%);
-
+.stylenavbar {
+  background-color: #000000;
+  background-image: linear-gradient(0deg, #000000 0%, #ffffff 10%);
 }
 
-.usuario{
-    width: auto;
-    height: 60px;
-    padding-left: 100px;
-    padding-top: 10px;
-    
+.usuario {
+  width: auto;
+  height: 60px;
+  padding-left: 100px;
+  padding-top: 10px;
 }
-.titulo{
- font-family: 'Open Sans', sans-serif;
- text-align: center;
- padding-left: 200px;
- color: white;
-}
-
-.logogate{
-    background-color: white;
-    margin: 10px;
-    padding: 10px;
-    
+.titulo {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  padding-left: 200px;
+  color: white;
 }
 
-.item{
-    display: block;
-    width: 70%; 
-    height: 500px;
+.logogate {
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
 }
 
-.item img{
-    height: 200px;
-    width: 200px;
-
+.item {
+  display: block;
+  width: 70%;
+  height: 500px;
 }
 
-
-.parrafo1{
-    padding-left: 20px;
-    font-family: 'Open Sans', sans-serif;
+.item img {
+  height: 200px;
+  width: 200px;
 }
 
-
-
-.seccion1{
-    height: 600px;
-    width: 100%;
-    position:content;
-    background-color: black;
-    text-align: center;
+.parrafo1 {
+  padding-left: 20px;
+  font-family: "Open Sans", sans-serif;
 }
 
-.imagen{
-    position: relative;
-    height: 600px;
-    width: auto;
+.seccion1 {
+  height: 600px;
+  width: 100%;
+  position: content;
+  background-color: black;
+  text-align: center;
 }
 
-
-.titulo2{
-    
-    color: white;
-    /* margin-top: 10px */;
-    text-align: center;
+.imagen {
+  position: relative;
+  height: 600px;
+  width: auto;
 }
 
-
-
-.titulo3, .parrafo2{
-    color: white;
-    width: 100%;
-    height: auto;
-    text-align: justify;
-    margin-top: 10px;
-    margin-left: 10px;
-}
-.contenedor1{
-    width: 50%;
+.titulo2 {
+  color: white;
+  /* margin-top: 10px */
+  text-align: center;
 }
 
-.contenedor2{
-    background-color: grey;
-    border-radius: 6px;
-    border: 5px;
-    margin: 30px;
-    border: 10px;
-       
+.titulo3,
+.parrafo2 {
+  color: white;
+  width: 100%;
+  height: auto;
+  text-align: justify;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.contenedor1 {
+  width: 50%;
 }
 
-.formulario{
-    margin: 10px;
+.contenedor2 {
+  background-color: grey;
+  border-radius: 6px;
+  border: 5px;
+  margin: 30px;
+  border: 10px;
 }
 
-.contenedor3{
-    width: 50%;
-    text-align: center;
-    padding-right: 10px;
+.formulario {
+  margin: 10px;
 }
 
-.parrafo3{
-    width: 60%;
-    text-align: justify;
-
-}
-.contenedor4{
-    width: 50%;
-    color: white;
-    text-align: left;
+.contenedor3 {
+  width: 50%;
+  text-align: center;
+  padding-right: 10px;
 }
 
+.parrafo3 {
+  width: 60%;
+  text-align: justify;
+}
+.contenedor4 {
+  width: 50%;
+  color: white;
+  text-align: left;
+}
 
 /* Estilos pagina solicitudes */
 
-.titulo_crear{
-    text-align: center;
+.titulo_crear {
+  text-align: center;
 }
 
-.contenedor5{
-    width: 100%;
-}   
-.contenedor6{
-    width: 40%;
-    text-align: left;
-    
+.contenedor5 {
+  width: 100%;
+}
+.contenedor6 {
+  width: 40%;
+  text-align: left;
 }
 
-.contenedor7{
-    width: 40%;
-    padding-left: 20px;
-    padding-right: 20px;
-        
+.contenedor7 {
+  width: 40%;
+  padding-left: 20px;
+  padding-right: 20px;
 }
-.tipo_requerimiento{
-    padding: 20px;
-    border-color: #000000;
-    border-style: double;
-}
-
-.categoria{
-    padding: 20px;
-    border-color: #000000;
-    border-style: double;
-}
- 
-.clase{
-    padding: 20px;
-    border-color: #000000;
-    border-style: double;
+.tipo_requerimiento {
+  padding: 20px;
+  border-color: #000000;
+  border-style: double;
 }
 
-.titulo_consultar{
- text-align: center;   
+.categoria {
+  padding: 20px;
+  border-color: #000000;
+  border-style: double;
 }
 
-.contenedor8{
-    width: 80%;
-
+.clase {
+  padding: 20px;
+  border-color: #000000;
+  border-style: double;
 }
 
-.contenedor9{
-    width: 80%;
+.titulo_consultar {
+  text-align: center;
+}
+
+.contenedor8 {
+  width: 80%;
+}
+
+.contenedor9 {
+  width: 80%;
 }
 
 /* estilos administracion formularios */
 
+/* Estilos Login */
+.bg-image-vertical {
+  position: relative;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: auto 100%;
+}
+
+@media (min-width: 1025px) {
+  .h-custom-2 {
+    height: 100%;
+  }
+}
+
+.vh-100 {
+  background-color: #212529;
+}
+
+.img_login {
+  width: 200px;
+  height: auto;
+}

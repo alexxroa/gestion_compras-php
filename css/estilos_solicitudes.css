@@ -1,0 +1,15 @@
+.crear_solicitud{
+    display: flex;
+    justify-content: right;
+    width: 90%;
+}
+
+.crear_nuevo_solicitud{
+    background-color: #212529;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+}

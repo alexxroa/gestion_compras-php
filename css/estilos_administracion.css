@@ -1,0 +1,85 @@
+.titulo_administracion{
+    text-align: center;
+}
+
+.boton_nuevo_usuario{
+    text-align: right;
+    width: 90%;
+    height: auto;
+    text-decoration: none;
+    color: white;
+}
+
+.tabla_usuarios_DIV{
+    display: flex;
+    text-align: justify;
+    width: 80%;
+    height: auto;
+}
+
+.tabla_usuarios{
+    display: flex;
+    justify-content: center;
+}
+
+
+.crear_usuario {
+    display: flex;
+    justify-content: right;
+    width: 90%;
+}
+
+
+
+.crear_nuevo_usuario{
+    
+        background-color: #212529;
+        color: white;
+        padding: 15px 25px;
+        text-decoration: none;
+        cursor: pointer;
+        border: none;
+        border-radius: 20px;
+    
+}
+
+.formulario{
+    width: 70%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+
+}
+
+.seccion{
+    display: flex;
+    justify-content: center;
+}
+
+.seleccione_area{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.label_seleccione_area{
+    width: 16%;
+    margin-right: 10px;
+}
+
+.custom-select{
+    width: 84%;
+}
+
+.seleccione_rol{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.label_seleccione_rol{
+    width: 16%;
+    margin-right: 10px;
+}
+
+.col-sm-10{
+    margin-bottom: 10px;
+}
